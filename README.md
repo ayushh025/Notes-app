@@ -7,7 +7,7 @@ This project allows users to create and delete notes with a clean UI and respons
 
 ## 🚀 Live Demo
 
-👉 Add your deployed link here (Netlify / Vercel)
+https://notes-app-ayushh025.vercel.app
 
 ---
 
